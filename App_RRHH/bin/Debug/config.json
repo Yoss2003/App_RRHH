@@ -1,0 +1,22 @@
+{
+  "RedimencionarColumnas": false,
+  "MostrarGrid": false,
+  "OrdenarColumnas": false,
+  "HoverLoad": false,
+  "MostrarInfo": false,
+  "PrimeraEjecución": false,
+  "NombreEmpleado": "Yossimar",
+  "UsuarioEmpleado": "YossMB",
+  "CorreoAsociado": "a@mercado",
+  "ServidorCorreo": null,
+  "CuerpoCorreo": null,
+  "RutaOrigen": null,
+  "RutaDestino": null,
+  "PuertoCorreo": 0,
+  "FechaActual": "2026-01-01T14:43:43.1346095-05:00",
+  "BusquedaTiempoReal": false,
+  "ColoresEstado": false,
+  "FiltroDinamico": false,
+  "MostrarContador": false,
+  "ExportarAvanzado": false
+}
