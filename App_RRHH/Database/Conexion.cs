@@ -27,7 +27,7 @@ namespace App_RRHH.Conexion
                 string sql = @"
                     CREATE TABLE IF NOT EXISTS Empleados(
                     IdEmpleado INTEGER PRIMARY KEY AUTOINCREMENT, 
-                    NombreCompleto NVARCHAR(150) NOT NULL, 
+                    PrimerNombre NVARCHAR(150) NOT NULL, 
                     Edad INT NULL, 
                     FechaNacimiento DATE NULL, 
                     Telefono NVARCHAR(20) NULL, 
