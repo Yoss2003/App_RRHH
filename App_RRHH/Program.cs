@@ -1,4 +1,5 @@
-﻿using System;
+﻿using App_RRHH.Vistas.VistasExtras;
+using System;
 using System.Windows.Forms;
 
 namespace App_RRHH
